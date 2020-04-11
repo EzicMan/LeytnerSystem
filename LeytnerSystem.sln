@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeytnerSystem", "LeytnerSystem\LeytnerSystem.csproj", "{23AD6D6E-4215-4401-B63A-B52C5BD2CA18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeytnerDBAdder", "LeytnerDBAdder\LeytnerDBAdder.csproj", "{821FCC04-6CC8-4B79-BAD8-0276B273C689}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23AD6D6E-4215-4401-B63A-B52C5BD2CA18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23AD6D6E-4215-4401-B63A-B52C5BD2CA18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23AD6D6E-4215-4401-B63A-B52C5BD2CA18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23AD6D6E-4215-4401-B63A-B52C5BD2CA18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{821FCC04-6CC8-4B79-BAD8-0276B273C689}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{821FCC04-6CC8-4B79-BAD8-0276B273C689}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{821FCC04-6CC8-4B79-BAD8-0276B273C689}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{821FCC04-6CC8-4B79-BAD8-0276B273C689}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89DEE629-9FA0-48B4-8EF4-7088815232E6}
+	EndGlobalSection
+EndGlobal

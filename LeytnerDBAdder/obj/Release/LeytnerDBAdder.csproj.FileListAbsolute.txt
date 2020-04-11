@@ -1,0 +1,14 @@
+C:\Users\axew1\source\repos\LeytnerSystem\LeytnerDBAdder\bin\Release\LeytnerDBAdder.exe.config
+C:\Users\axew1\source\repos\LeytnerSystem\LeytnerDBAdder\bin\Release\LeytnerDBAdder.exe
+C:\Users\axew1\source\repos\LeytnerSystem\LeytnerDBAdder\bin\Release\LeytnerDBAdder.pdb
+C:\Users\axew1\source\repos\LeytnerSystem\LeytnerDBAdder\bin\Release\Newtonsoft.Json.dll
+C:\Users\axew1\source\repos\LeytnerSystem\LeytnerDBAdder\bin\Release\Newtonsoft.Json.pdb
+C:\Users\axew1\source\repos\LeytnerSystem\LeytnerDBAdder\bin\Release\Newtonsoft.Json.xml
+C:\Users\axew1\source\repos\LeytnerSystem\LeytnerDBAdder\obj\Release\LeytnerDBAdder.Form1.resources
+C:\Users\axew1\source\repos\LeytnerSystem\LeytnerDBAdder\obj\Release\LeytnerDBAdder.Properties.Resources.resources
+C:\Users\axew1\source\repos\LeytnerSystem\LeytnerDBAdder\obj\Release\LeytnerDBAdder.csproj.GenerateResource.cache
+C:\Users\axew1\source\repos\LeytnerSystem\LeytnerDBAdder\obj\Release\LeytnerDBAdder.csproj.CoreCompileInputs.cache
+C:\Users\axew1\source\repos\LeytnerSystem\LeytnerDBAdder\obj\Release\LeytnerDBAdder.csproj.CopyComplete
+C:\Users\axew1\source\repos\LeytnerSystem\LeytnerDBAdder\obj\Release\LeytnerDBAdder.exe
+C:\Users\axew1\source\repos\LeytnerSystem\LeytnerDBAdder\obj\Release\LeytnerDBAdder.pdb
+C:\Users\axew1\source\repos\LeytnerSystem\LeytnerDBAdder\obj\Release\LeytnerDBAdder.csprojAssemblyReference.cache

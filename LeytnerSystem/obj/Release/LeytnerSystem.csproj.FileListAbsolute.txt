@@ -1,0 +1,14 @@
+C:\Users\axew1\source\repos\LeytnerSystem\LeytnerSystem\bin\Release\LeytnerSystem.exe.config
+C:\Users\axew1\source\repos\LeytnerSystem\LeytnerSystem\bin\Release\LeytnerSystem.exe
+C:\Users\axew1\source\repos\LeytnerSystem\LeytnerSystem\bin\Release\LeytnerSystem.pdb
+C:\Users\axew1\source\repos\LeytnerSystem\LeytnerSystem\bin\Release\Newtonsoft.Json.dll
+C:\Users\axew1\source\repos\LeytnerSystem\LeytnerSystem\bin\Release\Newtonsoft.Json.pdb
+C:\Users\axew1\source\repos\LeytnerSystem\LeytnerSystem\bin\Release\Newtonsoft.Json.xml
+C:\Users\axew1\source\repos\LeytnerSystem\LeytnerSystem\obj\Release\LeytnerSystem.csprojAssemblyReference.cache
+C:\Users\axew1\source\repos\LeytnerSystem\LeytnerSystem\obj\Release\LeytnerSystem.Form1.resources
+C:\Users\axew1\source\repos\LeytnerSystem\LeytnerSystem\obj\Release\LeytnerSystem.Properties.Resources.resources
+C:\Users\axew1\source\repos\LeytnerSystem\LeytnerSystem\obj\Release\LeytnerSystem.csproj.GenerateResource.cache
+C:\Users\axew1\source\repos\LeytnerSystem\LeytnerSystem\obj\Release\LeytnerSystem.csproj.CoreCompileInputs.cache
+C:\Users\axew1\source\repos\LeytnerSystem\LeytnerSystem\obj\Release\LeytnerSystem.csproj.CopyComplete
+C:\Users\axew1\source\repos\LeytnerSystem\LeytnerSystem\obj\Release\LeytnerSystem.exe
+C:\Users\axew1\source\repos\LeytnerSystem\LeytnerSystem\obj\Release\LeytnerSystem.pdb

@@ -1,0 +1,14 @@
+C:\Users\axew1\source\repos\LeytnerSystem\LeytnerSystem\bin\Debug\LeytnerSystem.exe.config
+C:\Users\axew1\source\repos\LeytnerSystem\LeytnerSystem\bin\Debug\LeytnerSystem.exe
+C:\Users\axew1\source\repos\LeytnerSystem\LeytnerSystem\bin\Debug\LeytnerSystem.pdb
+C:\Users\axew1\source\repos\LeytnerSystem\LeytnerSystem\obj\Debug\LeytnerSystem.csprojAssemblyReference.cache
+C:\Users\axew1\source\repos\LeytnerSystem\LeytnerSystem\obj\Debug\LeytnerSystem.Properties.Resources.resources
+C:\Users\axew1\source\repos\LeytnerSystem\LeytnerSystem\obj\Debug\LeytnerSystem.csproj.GenerateResource.cache
+C:\Users\axew1\source\repos\LeytnerSystem\LeytnerSystem\obj\Debug\LeytnerSystem.csproj.CoreCompileInputs.cache
+C:\Users\axew1\source\repos\LeytnerSystem\LeytnerSystem\obj\Debug\LeytnerSystem.exe
+C:\Users\axew1\source\repos\LeytnerSystem\LeytnerSystem\obj\Debug\LeytnerSystem.pdb
+C:\Users\axew1\source\repos\LeytnerSystem\LeytnerSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\axew1\source\repos\LeytnerSystem\LeytnerSystem\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\axew1\source\repos\LeytnerSystem\LeytnerSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\axew1\source\repos\LeytnerSystem\LeytnerSystem\obj\Debug\LeytnerSystem.csproj.CopyComplete
+C:\Users\axew1\source\repos\LeytnerSystem\LeytnerSystem\obj\Debug\LeytnerSystem.Form1.resources
